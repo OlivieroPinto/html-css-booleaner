@@ -1,0 +1,38 @@
+.logo-back{
+    background-image: url(./img/pattern.png);
+    background-size: 125px;
+}
+.colore-blu{
+background-color:rgb(60, 163, 248) ;
+}
+#logo{
+    height: 50px;
+    }
+.write-by{
+    color: grey;
+}
+#scritta-blu{
+    color: rgb(56, 163, 248);
+}    
+.small-text{
+    font-size: 11px;
+}
+.evidenziatore{
+    background-color: rgba(255, 255, 0, 0.397);
+}
+.evidenziatore-tabella{
+    background-color:rgba(60, 163, 248, 0.397);
+}
+.text-white{
+    color: white;
+}
+.container {
+    position: relative;
+  }
+.text{
+    text-align: center;
+    position:absolute;
+    color: white;
+    top: -7%;
+    left: 4%;
+    }
